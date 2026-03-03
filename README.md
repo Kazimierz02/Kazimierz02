@@ -1,16 +1,25 @@
-## Hi there 👋
+# Cześć, jestem Kazimierz! 👋
 
-<!--
-**Kazimierz02/Kazimierz02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Student Informatyki (Inżynieria Bezpieczeństwa Systemów Informatycznych) na WWSI w Warszawie**
+💻 **Początkujący administrator / IT Support z zacięciem do programowania**
 
-Here are some ideas to get you started:
+Mam za sobą pierwsze doświadczenie komercyjne w dziale IT, gdzie zajmowałem się wsparciem technicznym użytkowników, konfiguracją sprzętu oraz rozwiązywaniem bieżących problemów. Obecnie skupiam się na rozwijaniu swoich umiejętności programistycznych i administracyjnych.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologie i narzędzia:
+
+* **Języki i Skrypty:** Podstawy C/C++, Bash (tworzenie prostych skryptów automatyzujących)
+* **Systemy:** Linux (bieżąca nauka administracji i pracy w terminalu), Windows
+* **Sieci i Sieciowe:** Podstawy TCP/IP
+* **Inne:** Git, rozwiązywanie problemów sprzętowych/systemowych (Troubleshooting)
+
+### 💻 Moje projekty:
+
+* 🐧 **[sysadmin-toolkit](https://github.com/Kazimierz02/sysadmin-toolkit)** – Zbiór prostych skryptów w Bashu automatyzujących codzienne zadania administracyjne w systemie Linux (m.in. monitorowanie zasobów, tworzenie kopii zapasowych).
+* ⚙️ **[basic-signal-filter](https://github.com/Kazimierz02/basic-signal-filter)** – Konsolowa aplikacja w C++ do prostego przetwarzania i filtrowania ciągów danych liczbowych z plików tekstowych.
+
+### 🌱 Aktualnie się uczę / Mój cel:
+Zależy mi na zdobywaniu praktycznego doświadczenia (praktyki/staż). Chcę płynnie poruszać się w środowisku Linuxa, tworzyć bardziej zaawansowane skrypty automatyzujące (Bash) oraz rozwijać znajomość języka C++.
+
+### 📫 Kontakt:
+* **Email:** kostowskikazimierz@gmail.com
+* **LinkedIn:** [Kazimierz Kostowski](https://www.linkedin.com/in/kazimerz-kostowski-4764b8213/)
