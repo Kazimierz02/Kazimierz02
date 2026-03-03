@@ -10,15 +10,15 @@ Docelowo wiążę swoją ścieżkę zawodową z pracą na stanowisku **Helpdesk 
 ### 🛠️ Technologie i narzędzia, z którymi pracuję:
 
 * **Systemy Operacyjne:** Linux (bieżąca nauka administracji, codzienna praca w terminalu), Windows
-* **Automatyzacja i Skrypty:** Bash (pisanie skryptów automatyzujących rutynowe zadania)
-* **Programowanie:** Znam podstawy C/C++ (wykorzystywane głównie do zrozumienia działania systemów i logiki)
+* **Automatyzacja i Skrypty:** Bash, podstawy Pythona (pisanie skryptów automatyzujących rutynowe zadania)
+* **Programowanie:** Znam podstawy C/C++ oraz Pythona (wykorzystywane głównie do zrozumienia działania systemów i logiki)
 * **Sieci:** Podstawy TCP/IP
 * **Inne:** Git, Active Directory (podstawy zarządzania kontami), rozwiązywanie problemów sprzętowych
 
 ### 💻 Moje projekty:
 
 * 🐧 **[sysadmin-toolkit](https://github.com/Kazimierz02/sysadmin-toolkit)** – Zbiór prostych skryptów w Bashu automatyzujących codzienne zadania w środowisku Linux (m.in. audyt logów SSH, monitorowanie zasobów).
-* ⚙️ **[basic-signal-filter](https://github.com/Kazimierz02/basic-signal-filter)** – Prosta aplikacja konsolowa w C++ pokazująca znajomość podstaw tego języka i operacji na plikach.
+* 🐍 **[cli-ticket-manager](https://github.com/Kazimierz02/cli-ticket-manager)** – Konsolowa aplikacja do zarządzania zgłoszeniami wsparcia IT napisana w Pythonie. Pozwala na dodawanie, przeglądanie i zamykanie zgłoszeń (Helpdesk) z wykorzystaniem lokalnej bazy danych w formacie JSON.
 
 ### 🌱 Aktualnie się uczę / Mój cel zawodowy:
 Szukam możliwości zdobycia dalszego, praktycznego doświadczenia (staż/praktyki/praca) w dziale wsparcia IT. W wolnym czasie aktywnie "siedzę" w środowisku Linuxa, zgłębiając tajniki administracji i automatyzacji, aby w przyszłości móc skutecznie zarządzać infrastrukturą firmową. 
