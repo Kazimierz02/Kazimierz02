@@ -1,7 +1,7 @@
 # Cześć, jestem Kazimierz! 👋
 
-🎓 **Student Informatyki (Inżynieria Bezpieczeństwa Systemów Informatycznych) na WWSI w Warszawie**
-💻 **Początkujący administrator / IT Support z zacięciem do programowania**
+ **Student Informatyki (Inżynieria Bezpieczeństwa Systemów Informatycznych) na WWSI w Warszawie**
+ **Początkujący administrator / IT Support z zacięciem do programowania**
 
 Mam za sobą pierwsze doświadczenie komercyjne w dziale IT, gdzie zajmowałem się wsparciem technicznym użytkowników, konfiguracją sprzętu oraz rozwiązywaniem bieżących problemów. Obecnie skupiam się na rozwijaniu swoich umiejętności programistycznych i administracyjnych.
 
