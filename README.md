@@ -17,7 +17,7 @@ Szukam możliwości rozwoju w zwinnych zespołach projektowych (Agile/Scrum), ł
 
 ### 💻 Moje projekty (Praktyczne zastosowanie wiedzy):
 
-* 🔍 **[mini-web-fuzzer](https://github.com/Kazimierz02/TUTAJ-WPISZ-NAZWE-REPOZYTORIUM)** – Autorskie narzędzie napisane w **Pythonie** do enumeracji ukrytych katalogów na serwerach WWW. Projekt demonstruje praktyczne zrozumienie podstaw bezpieczeństwa aplikacji webowych i obsługi żądań HTTP.
+* 🔍 **[fuzzer.py](https://github.com/Kazimierz02/fuzzer.py)** – Autorskie narzędzie napisane w **Pythonie** do enumeracji ukrytych katalogów na serwerach WWW. Projekt demonstruje praktyczne zrozumienie podstaw bezpieczeństwa aplikacji webowych i obsługi żądań HTTP.
 * ☁️ **[sys-health-microservice](https://github.com/Kazimierz02/sys-health-microservice)** – Demonstracyjny **mikroserwis** w Pythonie posiadający własny, zautomatyzowany pipeline **CI/CD** w GitHub Actions. Aplikacja zwraca dane o systemie w formacie JSON (REST API).
 * 🐍 **[cli-ticket-manager](https://github.com/Kazimierz02/cli-ticket-manager)** – Aplikacja do zarządzania zgłoszeniami wsparcia IT napisana w **Pythonie**. Wykorzystuje lokalną bazę JSON do procesowania logów – inspirowana moją pracą na stanowisku IT Support.
 * 🐧 **[sysadmin-toolkit](https://github.com/Kazimierz02/sysadmin-toolkit)** – Zbiór skryptów w **Bashu** automatyzujących codzienne zadania administracyjne w systemie **Linux** (m.in. audyt logów, monitorowanie).
